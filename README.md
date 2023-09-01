@@ -1,3 +1,5 @@
+![The Brave Shroomish!](/img/11/28.jpg)
+
 # PTCG-CHS-Datasets
 
 A dataset of Pokémon Trading Card Game cards of Simplified Chinese version.
