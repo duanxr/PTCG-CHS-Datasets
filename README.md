@@ -4,7 +4,7 @@
 
 A dataset of Pokémon Trading Card Game cards of Simplified Chinese version.
 
-There's a JSON dataset containing information about each card in every collection, as well as their card descriptions and images, available in an Excel format for ease of use. If you encounter any issues, please submit an issue so that I am aware of them and can make improvements.
+There's a JSON dataset containing information about each card in every collection, as well as their card descriptions and images. If you encounter any issues, please submit an issue so that I am aware of them and can make improvements.
 
 ## DISCLAIMER FOR USAGE OF PTCG-CHS-Datasets
 
@@ -32,7 +32,7 @@ For any questions or clarifications regarding the usage of PTCG-CHS-Datasets, pl
 
 ポケモンの簡体字中国語版トレーディングカードゲームカードのデータセット。
 
-このデータセットは、各コレクション内の各カードに関する情報、カードの説明、画像をJSON形式で提供し、使用の便宜のためにExcel形式でも提供しています。問題が発生した場合は、問題を提出してください。改善できるように認識しています。
+このデータセットは、各コレクション内の各カードに関する情報、カードの説明、画像をJSON形式で提供しています。問題が発生した場合は、問題を提出してください。改善できるように認識しています。
 
 ## PTCG-CHS-Datasetsの使用に関する免責事項
 
