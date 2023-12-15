@@ -1,4 +1,4 @@
-![The Brave Shroomish!](/img/11/28.jpg)
+![The Brave Shroomish!](/img/11/28.png)
 
 # PTCG-CHS-Datasets
 
